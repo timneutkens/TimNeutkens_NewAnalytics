@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config> 
+    <modules>
+        <TimNeutkens_NewAnalytics>
+            <version>1.0.0</version>
+
+        </TimNeutkens_NewAnalytics>
+
+    </modules>
+    <global>
+        <blocks>
+            <googleanalytics>
+                <rewrite>
+                    <ga>TimNeutkens_NewAnalytics_Block_Ga</ga>
+                </rewrite>
+            </googleanalytics>
+        </blocks>
+    </global>
+</config>

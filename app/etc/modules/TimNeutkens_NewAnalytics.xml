@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <TimNeutkens_NewAnalytics>
+        	
+            <active>true</active>
+
+            <codePool>local</codePool>
+
+        </TimNeutkens_NewAnalytics>
+    </modules>
+</config>
